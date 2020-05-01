@@ -2,3 +2,6 @@
 Bon dia from El Masnou in Barcelona
 Bon dia from El Masnou, lliure i tropical.
 >>>>>>> branch1
+
+lorem100
+
